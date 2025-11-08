@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.8.7
+
+### Changed
+
+- Update stale information in readme.
+
+## 0.8.6
+
+### Changed
+
+- Allow flags to be hidden (#25)
+
 ## 0.8.5
 
 ### Changed
