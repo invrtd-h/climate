@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.9.0
+
+### Added
+
+- Multiple-lined documents are automatically aligned (#27)
+
 ## 0.8.7
 
 ### Changed
